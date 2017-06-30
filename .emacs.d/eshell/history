@@ -1,0 +1,9 @@
+ls
+mkdir helpers
+ls
+cd helpers/
+touch tool.ex
+ls
+cd ../templates/admin/
+ls
+touch show.html.eex
