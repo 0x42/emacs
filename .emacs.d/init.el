@@ -14,8 +14,8 @@
 (require 'buffer-move) ;; package https://github.com/lukhas/buffer-move
 
 (require 'init-key)
-;(require 'init-erlang)
-;(require 'init-erlang-key)
+(require 'init-erlang)
+(require 'init-erlang-key)
 (require 'init-elixir)
 (require 'init-develop)
 
@@ -41,3 +41,4 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+(put 'dired-find-alternate-file 'disabled nil)
