@@ -27,7 +27,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (dired-k dired-subtree dired-rainbow dired+ diredful sr-speedbar spacemacs-theme buffer-move alchemist)))
+    (flymd dired-k dired-subtree dired-rainbow dired+ diredful sr-speedbar spacemacs-theme buffer-move alchemist)))
  '(speedbar-mode-specific-contents-flag t)
  '(speedbar-show-unknown-files t)
  '(speedbar-supported-extension-expressions

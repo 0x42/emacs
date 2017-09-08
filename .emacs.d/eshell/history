@@ -7,3 +7,6 @@ ls
 cd ../templates/admin/
 ls
 touch show.html.eex
+cd ../
+mix ecto.create
+mix ecto.create
